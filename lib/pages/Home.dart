@@ -13,7 +13,7 @@ class _MeuAppHomeState extends State<MeuAppHome> {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Lista de tarefas"),
-        backgroundColor: Color.fromARGB(255, 155, 51, 173),
+        backgroundColor: Color.fromARGB(255, 155, 51, 0),
       ),
       backgroundColor: Color.fromRGBO(239, 145, 255, 0.599),
       body: const Center(
