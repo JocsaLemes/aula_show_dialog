@@ -19,7 +19,7 @@ class _MeuAppHomeState extends State<MeuAppHome> {
       body: const Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: [Text("Opa")],
+          children: [],
         ),
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
